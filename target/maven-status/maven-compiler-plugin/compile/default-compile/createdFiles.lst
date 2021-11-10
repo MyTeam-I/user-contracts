@@ -1,0 +1,4 @@
+ILenguage\user\contracts\commands\EditUser.class
+ILenguage\user\contracts\commands\RegisterUser.class
+ILenguage\user\contracts\events\UserRegistered.class
+ILenguage\user\contracts\events\UserEdited.class
