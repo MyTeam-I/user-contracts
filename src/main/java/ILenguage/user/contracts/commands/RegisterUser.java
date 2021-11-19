@@ -9,4 +9,5 @@ public class RegisterUser {
     private String firstName;
     private String lastName;
     private String dni;
+    private Instant occurredOn;
 }
