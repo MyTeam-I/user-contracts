@@ -9,6 +9,7 @@
     <version>1.2</version>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
     </properties>
@@ -34,12 +35,13 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Fun-Team-UPC Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Fun-Team-UPC/ILenguage.user.contracts</url>
+<!--            <name>GitHub Fun-Team-UPC Apache Maven Packages</name>-->
+<!--            <url>https://maven.pkg.github.com/Fun-Team-UPC/ILenguage.user.contracts</url>-->
+            <name>GitHub MyTeam-I Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/MyTeam-I/user-contracts</url>
+
         </repository>
     </distributionManagement>
-
-
 
     <build>
         <pluginManagement>
